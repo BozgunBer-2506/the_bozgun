@@ -1,35 +1,48 @@
-# Hello, I'm Bozgun! 👋
+# Hello, I'm Yavuz Baris Özgün! 👋
 
-### 🚀 My Learning Journey & Goals
+### 🚀 Cloud & DevOps Journey
 
-- 💡 Current Focus: Bridging the gap between Code and Infrastructure (Infrastructure as Code).
-- 🎓 Stage: 6 months into an intensive developer/engineering program.
-- 🎯 Career Goal: Aspiring Cloud & DevOps Engineer.
-- 🔗 Connect: [LinkedIn](https://www.linkedin.com/in/y-baris-%C3%B6zg%C3%BCn-999927175/) | [Email](mailto:bozgun76@gmail.com)
+- 💡 **Current Focus:** Infrastructure as Code (IaC) and Containerization.
+- 🎓 **Status:** Advanced stage of intensive Cloud Engineering program.
+- 🎯 **Goal:** Aspiring Cloud & DevOps Engineer focused on scalable, automated systems.
+- 🔗 **Connect:** [LinkedIn](https://www.linkedin.com/in/y-baris-%C3%B6zg%C3%BCn-999927175/) | [Email](mailto:bozgun76@gmail.com)
 
 ---
-### 💼 Selected Skill Repositories
 
-| Focus Area | Key Skills Demonstrated |
+### 🌟 Featured Project: Gym API Orchestration
+
+My most recent work focuses on migrating a cloud-native FastAPI application into a fully orchestrated environment:
+
+* **[Gym Training Program API (Solo Refactor)](https://github.com/your-username/your-repo)**
+  * **DevOps Impact:** Transitioned from manual EC2 setup to **Docker Compose** orchestration.
+  * **Stack:** FastAPI, PostgreSQL (AWS RDS), Nginx, Docker.
+  * **Automation:** Integrated Bash scripts for S3 backups and log rotation.
+
+---
+
+### 💼 Technical Expertise
+
+| Focus Area | Demonstrated Skills |
 | :--- | :--- |
-| **Python & DB Connectivity** | Python usage for **SQLite** connection and basic **CRUD** (Create, Read, Update, Delete) operations. Database management through a Recipe Management application. |
-| **Linux Scripting & Utilities** | Mastery of essential **Linux** command-line tools (**grep, sed, awk, tar**). Focus on file manipulation, text processing, and system **backup** procedures. |
-| **Basic API Development** | Introduction to **Mini-API** development using frameworks like **FastAPI** or **Flask** for simple server/client interaction models. |
-| **Environment Management** | Proficient in isolating project dependencies and creating clean Python environments using **venv** and **requirements.txt**. |
+| **Cloud & Infrastructure** | Deploying scalable apps on **AWS (EC2, RDS, S3)**. Configuring Security Groups and VPC networking. |
+| **Containerization** | Creating multi-container environments with **Docker & Docker Compose**. |
+| **Linux & Automation** | Advanced **Bash scripting** for system backups, log management, and Cronjob automation. |
+| **API & Backend** | Building RESTful services with **FastAPI** using SQLAlchemy and Pydantic v2. |
 
 ---
 
-### 🛠️ Core Fundamentals
+### 🛠️ Core Toolbox
 
-| Cloud & Infra | Programming Language | OS & Shell |
+| Cloud & Platforms | Languages & Data | DevOps & Tools |
 | :---: | :---: | :---: |
-| EC2 (Core Services) | Python (Beginner) | Linux (Essentials) |
-| S3 (Storage) | JSON | SSH & Bash |
+| **AWS** (EC2, RDS, S3) | **Python** (Automation) | **Docker** & Compose |
+| **Linux** (Ubuntu) | **SQL** (PostgreSQL) | **Nginx** (Reverse Proxy) |
+| **SSH** & Networking | **JSON** & YAML | **Git** (Advanced) |
 
 ---
 
 ### 📚 Currently Exploring
 
-* Utilizing Python for Automation and Scripting.
-* Deepening knowledge in AWS Services (VPC, IAM).
-* Advanced Git commands for Version Control.
+* **CI/CD Pipelines:** Automating deployments via GitHub Actions.
+* **Infrastructure as Code:** Starting with Terraform for AWS provisioning.
+* **Kubernetes:** Transitioning from Docker Compose to K8s orchestration.
